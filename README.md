@@ -9,7 +9,7 @@ A website about my favourite meal.
 <body>
 <h1>Ramen Noodle Bowl Recipe</h1>
 <img class="fit-picture"
-     src="/desktop/WEB DESIGN(CA106)/Ramen-Noodle-Bowl.jpg"
+     src="images/Ramen-Noodle-Bowl.jpg"
      alt="Ramen-Noodle-Bowl">
 <h2>Ingredients</h2>
 <p><ul><li>4 cups boiling water</li><li>1/2 ounce dried porcini mushrooms</li><li>1 smoked bacon slice</li><li>1/2 cup chopped onion</li><li>1 carrot, coarsely chopped</li><li>2 tablespoons yellow miso</li><li>2 tablespoons lower-sodium soy sauce</li><li>2 cups no-salt added chicken stock</li><li>3 garlic cloves, crushed</li><li>1 (1/2-inch) piece ginger, cut into thin slices</li><li>8 ounces fresh Chinese egg noodles or ramen noodles</li><li>2 tablespoons dark sesame oil, divided</li><li>2 (4-ounce) packages gourmet fresh mushrooms</li><li>6 skin-on, boneless chicken thighs</li><li>3 large eggs</li><li>3/4 cup thinly sliced green onion strips</li><li>2 tablespoons sambal oelek (ground fresh chile paste)</li></ul></p>
